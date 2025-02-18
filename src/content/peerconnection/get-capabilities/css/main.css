@@ -1,0 +1,23 @@
+/*
+ *  Copyright (c) 2015 The WebRTC project authors. All Rights Reserved.
+ *
+ *  Use of this source code is governed by a BSD-style license
+ *  that can be found in the LICENSE file in the root of the source
+ *  tree.
+ */
+
+button {
+  margin: 20px 10px 0 0;
+  width: 100px;
+}
+
+label {
+  font-weight: 500;
+  margin: 0 10px 0 0;
+}
+
+textarea {
+  font-family: "Liberation Mono, 8pt";
+  height: 200px;
+  width: 100%;
+}
